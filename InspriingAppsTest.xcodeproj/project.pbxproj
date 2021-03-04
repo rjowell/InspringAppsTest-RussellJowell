@@ -16,6 +16,7 @@
 		E7B33D9725EEFE8F00C34F5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7B33D9525EEFE8F00C34F5D /* LaunchScreen.storyboard */; };
 		E7B33DA225EEFE9000C34F5D /* InspriingAppsTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B33DA125EEFE9000C34F5D /* InspriingAppsTestTests.swift */; };
 		E7B33DAD25EEFE9000C34F5D /* InspriingAppsTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B33DAC25EEFE9000C34F5D /* InspriingAppsTestUITests.swift */; };
+		E7B33DBE25EFE6DA00C34F5D /* PageOccurenceCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7B33DBD25EFE6DA00C34F5D /* PageOccurenceCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		E7B33DA825EEFE9000C34F5D /* InspriingAppsTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InspriingAppsTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7B33DAC25EEFE9000C34F5D /* InspriingAppsTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InspriingAppsTestUITests.swift; sourceTree = "<group>"; };
 		E7B33DAE25EEFE9000C34F5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7B33DBD25EFE6DA00C34F5D /* PageOccurenceCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageOccurenceCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		E7B33D8625EEFE8D00C34F5D /* InspriingAppsTest */ = {
 			isa = PBXGroup;
 			children = (
+				E7B33DBD25EFE6DA00C34F5D /* PageOccurenceCell.swift */,
 				E7B33D8725EEFE8D00C34F5D /* AppDelegate.swift */,
 				E7B33D8925EEFE8D00C34F5D /* SceneDelegate.swift */,
 				E7B33D8B25EEFE8D00C34F5D /* ViewController.swift */,
@@ -265,6 +268,7 @@
 				E7B33D9225EEFE8D00C34F5D /* InspriingAppsTest.xcdatamodeld in Sources */,
 				E7B33D8825EEFE8D00C34F5D /* AppDelegate.swift in Sources */,
 				E7B33D8A25EEFE8D00C34F5D /* SceneDelegate.swift in Sources */,
+				E7B33DBE25EFE6DA00C34F5D /* PageOccurenceCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
